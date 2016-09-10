@@ -1,0 +1,10 @@
+[package]
+name = "wechat-rs"
+version = "0.1.0"
+authors = ["Yuan He <lendage@gmail.com>"]
+description = "WeChat SDK for rust"
+repository = "https://github.com/lenage/wechat"
+readme = "README.md"
+license = "MIT"
+keywords = ["Wechat", "WechatPay"]
+[dependencies]
