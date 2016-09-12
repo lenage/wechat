@@ -1,6 +1,6 @@
 # wechat-rs
 
-WeChat SKD for Rust
+WeChat SDK for Rust
 
 # License
 
